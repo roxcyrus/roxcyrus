@@ -11,6 +11,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roxcyrus&show_icons=true&locale=en" alt="roxcyrus" /></p>
-
-
-![card](https://discord.c99.nl/widget/theme-3/884380717918863360.png)
